@@ -12,7 +12,7 @@ using namespace std;
 int main() {
   
     
-    int arr[] = {4,2,7,8,1,2,3};
+    int arr[] = {4,2,7,8,1,2,3,4};
     int size = 7;
     int target = 8;
     cout << linearsearch(arr, size, target) << endl; 
